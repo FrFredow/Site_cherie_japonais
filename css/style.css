@@ -1,3 +1,16 @@
 body {
-    background-color: blueviolet;
+#   background-color: rgb(188, 0, 45);
 }
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    color: red;
+}
+
+
+
+# Jai besoin de quatres couleur rouge blanc bleu marine et noir
