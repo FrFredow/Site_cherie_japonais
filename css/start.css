@@ -1,0 +1,18 @@
+main {
+    background-color: rgb(255, 220, 225)
+}  
+
+
+body {
+    background-color: rgb(255, 220, 225)
+}
+
+li {
+    display: flex;
+    justify-content: space-around;
+}
+
+* {
+    border: none;
+    outline: none;
+}
