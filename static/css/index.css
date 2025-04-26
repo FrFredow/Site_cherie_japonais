@@ -1,0 +1,60 @@
+body {
+background-color: rgb(255, 220, 225);
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: blue;
+}
+
+p {
+    color: black;
+}
+
+div {
+    color: black;
+}
+
+* {
+    border: none;
+    outline: none;
+}
+
+
+.centre-texte {
+    position: relative;
+    display: inline-block;
+  }
+
+  
+  .centre-texte img {
+    display: block;
+    width: 100%;  /* L'image garde sa taille originale */
+  }
+  
+
+  .centre-texte .texte-sur-image {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  }
+  
+  
+
+
+
+
+# Jai besoin de quatres couleur rouge blanc bleu marine et noir
