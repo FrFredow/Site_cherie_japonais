@@ -28,6 +28,11 @@ div {
     outline: none;
 }
 
+li {
+    display: flex;
+    justify-content: space-around;
+}
+
 
 .centre-texte {
     position: relative;
@@ -52,9 +57,4 @@ div {
     text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
   }
   
-  
-
-
-
-
-# Jai besoin de quatres couleur rouge blanc bleu marine et noir
+/* Jai besoin de quatres couleur rouge blanc bleu marine et noir */
