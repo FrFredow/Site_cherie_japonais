@@ -1,10 +1,10 @@
 <?php
-/*
+
 // Debug mode
 ini_set(option: "display_errors", value: 1);
 ini_set(option: "display_startup_errors", value: 1);
 error_reporting(error_level: E_ALL);
-*/
+
 define(constant_name: "BASE_DIR", value: $_SERVER['DOCUMENT_ROOT'] );
 
 require_once( BASE_DIR . '/templates/header.php');
