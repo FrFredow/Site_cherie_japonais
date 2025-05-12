@@ -9,8 +9,6 @@ define(constant_name: "BASE_DIR", value: $_SERVER['DOCUMENT_ROOT'] );
 require_once( BASE_DIR . '/templates/header.php');
 ?>
 
-
-
 <div>
     <p>D'abord les bases !</p>
 
