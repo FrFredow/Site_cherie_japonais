@@ -73,7 +73,7 @@ require_once( BASE_DIR . '/templates/header.php');
 
 
 <div class="centre-texte">
-    <img src="/assets/portail.jpg" alt="Image">
+    <img src="assets/images/portail.jpg" alt="Image">
     <div class="texte-sur-image">いらっしゃいませ !</div>
 </div>
 
